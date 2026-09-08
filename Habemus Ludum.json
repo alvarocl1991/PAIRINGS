@@ -1,0 +1,35 @@
+{
+  "team_name": "Habemus Ludum",
+  "players": [
+    {
+      "name": "ÁlvaroC",
+      "army": "Aeldari",
+      "disposition": "Reconnaissance (R)"
+    },
+    {
+      "name": "Desardinett",
+      "army": "Tyranids",
+      "disposition": "Take and Hold (TH)"
+    },
+    {
+      "name": "Peter ",
+      "army": "Adeptus Custodes",
+      "disposition": "Disruption (D)"
+    },
+    {
+      "name": "Bermel",
+      "army": "Imperial Knights",
+      "disposition": "Purge the Foe (PF)"
+    },
+    {
+      "name": "DavidDelRey",
+      "army": "Blood Angels",
+      "disposition": "Take and Hold (TH)"
+    },
+    {
+      "name": "AJ",
+      "army": "Astra Militarum",
+      "disposition": "Priority Assets (PA)"
+    }
+  ]
+}
